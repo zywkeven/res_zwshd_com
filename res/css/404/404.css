@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+body{ margin:0; padding:0; background:#f9feff url(http://res.zwshd.com/res/img/404/bg.jpg) repeat-x; line-height:18px;}
+
+img{border:none;padding:0px;margin:0px;}
+.img404{background:url(http://res.zwshd.com/res/img/404/p1.jpg) center center no-repeat;width:745px;height:258px;margin:50px auto;position:relative;} 
+.back{position:absolute;bottom:0px;right:180px;}
+.imgCenter{ margin:0 auto; width:970px; text-align:center;} 
+.imgCenterborder{ border:1px #eeeeee solid; padding:6px;}   
+a:link {
+    text-decoration: none;
+    color:#000;
+}
+a:visited {
+    text-decoration: none;
+    color:#000;
+}
+a:hover {
+    text-decoration: none;
+    color:#F90;
+}
+a:active {
+    text-decoration: none;
+    color:#000;
+}

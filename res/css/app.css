@@ -1,0 +1,20 @@
+.top-bar .bottom{
+	font-size:12px;
+	text-align:center;
+	color:#FFF;	
+}
+.top-bar .bottom a{  
+    color:#FFF; 
+}
+.top-bar .bottom a:hover{  
+    color:#319bec; 
+}
+.news .title{
+	width:100%;
+	height:16px;
+	overflow:hidden;
+	
+}
+.news .date{
+	width:27%;
+}
